@@ -1,4 +1,4 @@
-# 01 - Hello World
+# 02 - Types
 
 # Install
 ```bash
